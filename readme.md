@@ -62,4 +62,6 @@ Total qualifying stocks: 37
 37   SUNPHARMA.NS          Sun Pharmaceutical Industries Limited   1757.20  38.611294      421611.0       
 
 Results saved to screener_results.xlsx
+![Alt text](image-url)
+<img width="1893" height="943" alt="Screenshot 2026-03-31 135438" src="https://github.com/user-attachments/assets/5c99157a-dac8-42f1-b575-6c4966ef11fc" />
 
